@@ -1,2 +1,2 @@
-# nodejs-task-management-app-stub
+# movie-rating-app
 
